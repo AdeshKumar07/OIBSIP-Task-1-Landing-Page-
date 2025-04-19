@@ -1,0 +1,51 @@
+🔧 HTML & Structure Questions
+What is the role of the <section> and <footer> tags? Why did you use them here?
+
+Why did you use semantic tags like <header>, <section>, and <footer> instead of just <div>?
+
+What is the difference between alt in <img> and using it with title?
+
+Explain the use of the lang="en" attribute in the <html> tag.
+
+🎨 Tailwind CSS Specific Questions
+What is Tailwind CSS and how is it different from traditional CSS?
+
+What does bg-gradient-to-r do? Explain how gradients work in Tailwind.
+
+What is the use of hover:scale-105 and transition-all duration-300?
+
+What is the utility class backdrop-blur-sm and why did you use it?
+
+Explain how responsive classes work in Tailwind. For example, why did you use md:flex-row?
+
+⚙️ Layout & Design Questions
+What layout system is used in Tailwind CSS and how is it applied here?
+
+Why did you choose flex in the feature sections and grid for the bottom features?
+
+What does shadow-lg do? How does it enhance UI?
+
+What’s the effect of using object-cover on the footer image?
+
+📱 Responsiveness & UX
+How is this page responsive across different devices?
+
+What is the purpose of using hover: effects? How do they improve user experience?
+
+How did you handle spacing and padding in your layout using Tailwind?
+
+🧠 General & Practical
+How would you optimize this page for faster loading?
+
+If you wanted to add a dark mode toggle, how would you implement it in Tailwind?
+
+What are some accessibility features you’ve included or could add to this page?
+
+How would you convert this into a React component or a dynamic site with a backend?
+
+📦 Bonus (if asked about tools/frameworks)
+What CDN are you using for Tailwind CSS and what is its purpose?
+
+What would happen if the Tailwind CDN fails to load?
+
+Can you explain how to customize Tailwind classes using a configuration file?
